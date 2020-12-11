@@ -1,4 +1,0 @@
-hello zhangjie
-
-
-hello world
